@@ -12,11 +12,8 @@ Sistemas”
 #### Integrantes 🤓:
 - **Ttito Saya Alexander** - GitHub Account - [AlexanderTS1](https://github.com/AlexanderTS1)
 - **Huancara Ccolqque, Alex Helder** - GitHub Account - [AlexHelder-Tyzer](https://github.com/AlexHelder-Tyzer)
-- **Tacusi Larota Jhon Edwin** - GitHub Account - [jhontacusi](https://github.com/jhontacusi)
-- **Choque Sarmiento Leydi Diana** - GitHub Account - [Diana743238](https://github.com/Diana743238) 
-- **Condori Lopez ,Juan Carlos** - GitHub Account - [juancarlos170429](https://github.com/juancarlos170429) 
-- **Pereira Chinchero Richard Mikhael** - GitHub Account - [Richrd-321](https://github.com/Richrd-321) 
-- **Muñoz Pacheco Enit** - GitHub Account - [enit-mup](https://github.com/enit-mup)
+- **Choque Sarmiento Leydi Diana** - GitHub Account - [Diana743238](https://github.com/Diana743238)
+- **Pereira Chinchero Richard Mikhael** - GitHub Account - [Richrd-321](https://github.com/Richrd-321)
 - **Choque Bueno Fiorella** - GitHub Account - [FioChoque](https://github.com/FioChoque)
 
 #### Descripcion organizacional del sistema de Tutorías para la Escuela Profesional de Ingeniería Informática y de Sistemas”
