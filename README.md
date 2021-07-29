@@ -14,7 +14,7 @@ Sistemas”
 - **Huancara Ccolqque, Alex Helder** - GitHub Account - [AlexHelder-Tyzer](https://github.com/AlexHelder-Tyzer)
 - **Choque Sarmiento Leydi Diana** - GitHub Account - [Diana743238](https://github.com/Diana743238)
 - **Pereira Chinchero Richard Mikhael** - GitHub Account - [Richrd-321](https://github.com/Richrd-321)
-- **Choque Bueno Fiorella** - GitHub Account - [FioChoque](https://github.com/FioChoque)
+- **Sarco Jacinto Daniel Eduardo** - GitHub Account - [Mjinboodssj999](https://github.com/Mjinboodssj999)
 
 #### Descripcion organizacional del sistema de Tutorías para la Escuela Profesional de Ingeniería Informática y de Sistemas”
 
