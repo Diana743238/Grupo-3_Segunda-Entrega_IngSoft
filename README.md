@@ -29,8 +29,17 @@ Prototipo: [JUSTINMIND](9.1.1)
 Informe: [Informe del proyecto Sistema de Tutorías para la Escuela Profesional de Ingeniería Informática y de 
 Sistemas](https://docs.google.com/document/d/1LYDKNJ56hIB1uDAiyCXck5MLanWo3j3rW15_yuU1mcc/edit)
 ]
+
+
+
 #PLANIFICACION
 
 #BASE DE DATOS
+
+Base de datos: [Informe del proyecto Sistema de Tutorías para la Escuela Profesional de Ingeniería Informática y de 
+Sistemas](https://lucid.app/lucidchart/invitations/accept/inv_f656cbbf-9f27-455c-bd57-a8c075dce510)
+Script base de datos: [Informe del proyecto Sistema de Tutorías para la Escuela Profesional de Ingeniería Informática y de 
+Sistemas](https://lucid.app/lucidchart/invitations/accept/inv_f656cbbf-9f27-455c-bd57-a8c075dce510)
+
 
 #IMPLEMENTACION
