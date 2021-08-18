@@ -43,7 +43,7 @@ Diagrama SR
 
 Comomo: [Google Sheets](https://docs.google.com/spreadsheets/d/1MA6eyHkrxIZId95Bsob6LrNQj5tYz0q3zo2zRzd-r1o/edit?usp=sharing)
 
-Analisis de Riesgo
+Analisis de Riesgo: [Analisis de Riesgo PDF](https://github.com/AlexHelder-Tyzer/Grupo-3_Segunda-Entrega_IngSoft/blob/main/Documentaci%C3%B3n/Ing.%20Software%20-%20An%C3%A1lisis%20de%20riesgo%20.pdf)
 
 #BASE DE DATOS
 
