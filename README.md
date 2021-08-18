@@ -37,7 +37,7 @@ Diagrama SD
 
 Diagrama SR
 
-Comomo
+Comomo: [Google Sheets](https://docs.google.com/spreadsheets/d/1MA6eyHkrxIZId95Bsob6LrNQj5tYz0q3zo2zRzd-r1o/edit?usp=sharing)
 
 Analisis de Riesgo
 
