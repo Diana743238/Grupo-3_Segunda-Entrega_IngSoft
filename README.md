@@ -26,7 +26,7 @@ La tutoría es un conjunto de procesos y actividades de información, acompañam
 
 Prototipo: [JUSTINMIND](9.1.1)
 
-Herramienta de Gestion de Proyecto: [AZURE DEVOPS](https://dev.azure.com/)
+Herramienta de Gestion de Proyectos: [AZURE DEVOPS](https://dev.azure.com/)
 
 Informe: [Informe del proyecto Sistema de Tutorías para la Escuela Profesional de Ingeniería Informática y de 
 Sistemas](https://docs.google.com/document/d/1LYDKNJ56hIB1uDAiyCXck5MLanWo3j3rW15_yuU1mcc/edit)
@@ -40,6 +40,7 @@ Sistemas](https://docs.google.com/document/d/1LYDKNJ56hIB1uDAiyCXck5MLanWo3j3rW1
 
 Diagrama SR:[Diagrama SR](https://github.com/AlexHelder-Tyzer/Grupo-3_Segunda-Entrega_IngSoft/blob/main/Documentaci%C3%B3n/Nuevo%20Modelo%20Logico%20-%20Documentos%20de%20Google%20(1).pdf)
 
+Prototipos de Interfaz:[Prototipo de Interfaz en Justinmind](https://github.com/AlexHelder-Tyzer/Grupo-3_Segunda-Entrega_IngSoft/tree/main/Prototipo)
 
 Comomo: [Google Sheets](https://docs.google.com/spreadsheets/d/1MA6eyHkrxIZId95Bsob6LrNQj5tYz0q3zo2zRzd-r1o/edit?usp=sharing)
 
