@@ -34,6 +34,11 @@ Sistemas](https://docs.google.com/document/d/1LYDKNJ56hIB1uDAiyCXck5MLanWo3j3rW1
 
 #PLANIFICACION
 
+Diagrama SD 
+Diagrama SR
+Comomo
+Analisi de Riesgo
+
 #BASE DE DATOS
 
 Base de datos: [Enlace a Base de Datos](https://lucid.app/lucidchart/invitations/accept/inv_f656cbbf-9f27-455c-bd57-a8c075dce510)
@@ -42,3 +47,5 @@ Script base de datos: [Enlace a carpeta de descarga](https://lucid.app/lucidchar
 
 
 #IMPLEMENTACION
+
+Codigo a Corregir
