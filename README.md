@@ -37,7 +37,7 @@ Sistemas](https://docs.google.com/document/d/1LYDKNJ56hIB1uDAiyCXck5MLanWo3j3rW1
 Diagrama SD 
 Diagrama SR
 Comomo
-Analisi de Riesgo
+Analisis de Riesgo
 
 #BASE DE DATOS
 
@@ -48,4 +48,4 @@ Script base de datos: [Enlace a carpeta de descarga](https://lucid.app/lucidchar
 
 #IMPLEMENTACION
 
-Codigo a Corregir
+Codigo a Corregir: [Enlace a Github](https://github.com/denisomarcuyottito/Grupo-5-Desarrollo-de-Software)
