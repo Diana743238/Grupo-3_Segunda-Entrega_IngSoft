@@ -35,7 +35,7 @@ Sistemas](https://docs.google.com/document/d/1LYDKNJ56hIB1uDAiyCXck5MLanWo3j3rW1
 
 
 
-#PLANIFICACION
+### PLANIFICACION
 
 Diagrama SD 
 
@@ -45,14 +45,14 @@ Comomo: [Google Sheets](https://docs.google.com/spreadsheets/d/1MA6eyHkrxIZId95B
 
 Analisis de Riesgo: [Analisis de Riesgo PDF](https://github.com/AlexHelder-Tyzer/Grupo-3_Segunda-Entrega_IngSoft/blob/main/Documentaci%C3%B3n/Ing.%20Software%20-%20An%C3%A1lisis%20de%20riesgo%20.pdf)
 
-#BASE DE DATOS
+### BASE DE DATOS
 
 Base de datos: [Enlace a Base de Datos](https://lucid.app/lucidchart/invitations/accept/inv_f656cbbf-9f27-455c-bd57-a8c075dce510)
 
 Script base de datos: [Enlace a carpeta de descarga](https://lucid.app/lucidchart/invitations/accept/inv_f656cbbf-9f27-455c-bd57-a8c075dce510)
 
 
-#IMPLEMENTACION
+### IMPLEMENTACION
 
 Backlog: [Backlog en Azure Devops](https://dev.azure.com/edusar20000031/Sistema%20de%20tutorias%20(Grupo%203)/_workitems/recentlyupdated/)
 
