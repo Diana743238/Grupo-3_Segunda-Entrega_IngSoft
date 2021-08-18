@@ -34,8 +34,11 @@ Sistemas](https://docs.google.com/document/d/1LYDKNJ56hIB1uDAiyCXck5MLanWo3j3rW1
 #PLANIFICACION
 
 Diagrama SD 
+
 Diagrama SR
+
 Comomo
+
 Analisis de Riesgo
 
 #BASE DE DATOS
