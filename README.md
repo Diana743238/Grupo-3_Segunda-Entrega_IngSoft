@@ -37,9 +37,8 @@ Sistemas](https://docs.google.com/document/d/1LYDKNJ56hIB1uDAiyCXck5MLanWo3j3rW1
 
 ### PLANIFICACION
 
-Diagrama SD 
+Diagrama SR:[Diagrama SR] (https://github.com/AlexHelder-Tyzer/Grupo-3_Segunda-Entrega_IngSoft/blob/main/Documentaci%C3%B3n/Nuevo%20Modelo%20Logico%20-%20Documentos%20de%20Google%20(1).pdf)
 
-Diagrama SR
 
 Comomo: [Google Sheets](https://docs.google.com/spreadsheets/d/1MA6eyHkrxIZId95Bsob6LrNQj5tYz0q3zo2zRzd-r1o/edit?usp=sharing)
 
