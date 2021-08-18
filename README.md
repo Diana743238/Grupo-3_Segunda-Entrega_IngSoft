@@ -1,7 +1,7 @@
 # **<center>Ingeniería de Software I </center>**
 
 - **Institucion:** Universidad Nacional de San Antonio Abad del Cusco
-- **Facultad:** Facultad de ingenieria electrica, electronica, informatica y mecanica
+- **Facultad:** Facultad de Ingenieria Electrica, Electronica, Informatica y Mecanica
 - **Escuela Profecional:** Ingenieria Informatica y de Sistemas
 
 #### Docente:
