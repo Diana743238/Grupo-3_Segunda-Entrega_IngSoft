@@ -22,10 +22,9 @@ La tutoría es un conjunto de procesos y actividades de información, acompañam
 
 ### Herramientas a utilizar:
 
-Backlog: [Backlog en trello](https://trello.com/b/d0lKxO7F/trabajos-1)
 
 Prototipo: [JUSTINMIND](9.1.1)
-
+Prototipo: [AZURE DEVOPS](https://dev.azure.com/)
 Informe: [Informe del proyecto Sistema de Tutorías para la Escuela Profesional de Ingeniería Informática y de 
 Sistemas](https://docs.google.com/document/d/1LYDKNJ56hIB1uDAiyCXck5MLanWo3j3rW15_yuU1mcc/edit)
 ]
@@ -47,5 +46,6 @@ Script base de datos: [Enlace a carpeta de descarga](https://lucid.app/lucidchar
 
 
 #IMPLEMENTACION
+Backlog: [Backlog en Azure Devops](https://dev.azure.com/edusar20000031/Sistema%20de%20tutorias%20(Grupo%203)/_workitems/recentlyupdated/)
 
 Codigo a Corregir: [Enlace a Github](https://github.com/denisomarcuyottito/Grupo-5-Desarrollo-de-Software)
