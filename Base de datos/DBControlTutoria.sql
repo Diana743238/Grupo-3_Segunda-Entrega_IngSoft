@@ -313,15 +313,3 @@ INSERT INTO TSemestre VALUES (8,'2020_2')
 INSERT INTO TSemestre VALUES (9,'2021_1')
 INSERT INTO TSemestre VALUES (10,'2021_2')
 go
-
-
-
-select * from TAulaTutoria
-
-Update TAulaTutoria set CodGrupoAlumno='Goku' where CodAulaTutoria='A0001'
-
-select * from TAulaTutoria
-
-delete from TGrupoEstudiante where  CodGrupoEstudiante = 'pGrupo'
-
-select * from TGrupoEstudiante
